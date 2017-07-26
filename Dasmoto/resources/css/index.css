@@ -1,9 +1,8 @@
-*{
-
+* {
+  font-family: Helvetica;
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -12,25 +11,24 @@ h1 {
 }
 
 h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
-h2 #brushes {
+.brushes {
   background-color: mediumspringgreen;
 }
 
-h2 #frames {
+.frames {
   background-color: lightcoral;
 }
 
-h2 #paint {
+.paint {
   background-color: skyblue;
 }
 
-#blue {
+blue {
   color: blue;
   font-weight: bold;
 }
